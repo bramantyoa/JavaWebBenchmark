@@ -4,15 +4,20 @@ Multithreaded Java App for Web Server Response Time Benchmarking
 [![Donate](https://www.paypalobjects.com/webstatic/en_US/i/btn/png/gold-rect-paypal-26px.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJ86FPHU65W7G) 
 ----
 
-> I am not an experienced programmer
-> I just a university student and never did a real java project
-> You are free to download and modify this project to suit your needs
-> I don't responsible for anything, you are on your own
+> I am not an experienced programmer,
+> I am just a university student and never did a real java project.
+> Feel free to download and modify this project to suit your needs.
+> I don't responsible for anything you do with this project or anything related to this project,
+> you are on your own and you've been warned.
 > This project lacks LICENCE, tests, and many more...
-> I open up for suggestions
-> Drop me an email: adhilaksonobramantyo@gmail.com
+> I open up for suggestions.
+> Drop me an email at adhilaksonobramantyo@gmail.com
 
 JavaWebBenchmark is a tool to measure response time, built using Java and is multithreaded. If you need a great tool to measure server performance and built using Java, check out [Apache JMeter](http://jmeter.apache.org/). I start this project to get my hands on multithreading, and I am currently measuring web server performance for my research. I want to try to develop the tool by myself.
+
+### To Do:
+- [x] Write how to copy and edit this project
+- [ ] Write how to use the program
 
 ### Try the program
 ---
